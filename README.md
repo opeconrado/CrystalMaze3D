@@ -23,13 +23,9 @@ O jogo possui menu inicial com música de fundo, movimentação por teclado, con
 
 Assista ao vídeo de gameplay no YouTube:
 
-[COLOQUE AQUI O LINK DO VÍDEO DE GAMEPLAY](https://youtube.com)
-
-> Observação: o vídeo deve ter no máximo 5 minutos.
+https://youtu.be/85Rhg3LHHRA
 
 ## Prints do jogo
-
-> Substitua as imagens abaixo por prints reais tirados dentro da Unity antes de entregar.
 
 ### Menu principal
 
